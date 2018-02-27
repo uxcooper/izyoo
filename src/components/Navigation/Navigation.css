@@ -1,0 +1,15 @@
+.imgBorder {
+    width: 20px;
+    height: 20px;
+    border: 2px solid lightblue;
+    border-radius: 15px;
+    vertical-align: middle;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.fontSize{
+    font-size: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+}
